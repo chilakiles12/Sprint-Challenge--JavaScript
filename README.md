@@ -30,6 +30,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. Describe the biggest difference between `.forEach` & `.map`.
 
+.map created duplicate array and uses a callback, .forEach is a function applied on the array.
+
 2. What is the difference between a function and a method?
 
 methods are functions inside of objects.
@@ -49,7 +51,7 @@ super grabs the constructor from a parent object to inherit properties.
 Follow these steps to set up and work on your project:
 
 - [x] Create a forked copy of this project.
-- [ ] Add PM as collaborator on Github.
+- [x] Add PM as collaborator on Github.
 - [x] Clone your OWN version of Repo (Not Lambda's by mistake!).
 - [x] Create a new Branch on the clone: git checkout -b `<firstName-lastName>`.
 - [ ] Create a pull request before you start working on the project requirements. You will continuously push your updates throughout the project.
@@ -91,7 +93,7 @@ Create constructors, bind methods, and create cuboids in this prototypes challen
 
 Once you have completed the prototypes challenge, it's time to convert all your hard work into classes.
 
-- [ ] Use the [classes.js](challenges/classes.js) link to get started. Read the instructions carefully!
+- [x] Use the [classes.js](challenges/classes.js) link to get started. Read the instructions carefully!
 
 In your solutions, it is essential that you follow best practices and produce clean and professional results. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets MVP than one that attempts too much and does not.
 
